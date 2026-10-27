@@ -1,0 +1,638 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "suits",
+      "label": "البدلات والأطقم",
+      "caption": "حضور رسمي وأطقم متناسقة",
+      "image": "images/ig/p07.jpg"
+    },
+    {
+      "id": "shirts",
+      "label": "القمصان",
+      "caption": "ألوان وقصّات أنيقة",
+      "image": "images/ig/p10.jpg"
+    },
+    {
+      "id": "tshirts",
+      "label": "التيشيرتات",
+      "caption": "بولو وكتّان بلمسة راقية",
+      "image": "images/ig/p17.jpg"
+    },
+    {
+      "id": "jeans",
+      "label": "الجينز",
+      "caption": "قصّات يومية مريحة",
+      "image": "images/ig/p16.jpg"
+    },
+    {
+      "id": "trousers",
+      "label": "البناطيل",
+      "caption": "خفيفة وعملية",
+      "image": "images/ig/trousers-white.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "p01",
+      "name": "بدلة كحلية مزدوجة الصدر",
+      "category": "suits",
+      "price": 295000,
+      "badge": "مميز",
+      "description": "بدلة مزدوجة الصدر مع قميص مخطّط وربطة ومنديل جيب. حضور رسمي أنيق للمناسبات والعمل.",
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "colors": [
+        {
+          "name": "كحلي",
+          "hex": "#16213d"
+        }
+      ],
+      "image": "images/cut/p07_upper.webp",
+      "imageSize": [
+        361,
+        492
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p07_upper.webp",
+          "layer": "upper",
+          "w": 361,
+          "h": 492,
+          "stageW": 322
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "name": "طقم بولو أبيض",
+      "category": "suits",
+      "price": 98000,
+      "badge": "جديد",
+      "description": "بولو بسحّاب مع بنطال خفيف بنفس اللون، إطلالة متناسقة ومريحة.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "أبيض",
+          "hex": "#f1efe8"
+        }
+      ],
+      "image": "images/cut/p17_upper.webp",
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p17_lower.webp",
+          "layer": "lower",
+          "w": 202,
+          "h": 216,
+          "stageW": 200
+        },
+        {
+          "photo": "images/cut/p17_upper.webp",
+          "layer": "upper",
+          "w": 275,
+          "h": 304,
+          "stageW": 270
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "name": "طقم قميص سماوي بجيوب",
+      "category": "suits",
+      "price": 92000,
+      "oldPrice": 105000,
+      "description": "قميص بنصف كمّ وجيبين أماميين مع بنطال سماوي متناسق.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "سماوي",
+          "hex": "#9dc4e6"
+        }
+      ],
+      "image": "images/cut/p18_upper.webp",
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p18_lower.webp",
+          "layer": "lower",
+          "w": 197,
+          "h": 211,
+          "stageW": 196
+        },
+        {
+          "photo": "images/cut/p18_upper.webp",
+          "layer": "upper",
+          "w": 263,
+          "h": 328,
+          "stageW": 262
+        }
+      ]
+    },
+    {
+      "id": "p15",
+      "name": "جاكيت بني كاجوال",
+      "category": "suits",
+      "price": 135000,
+      "badge": "جديد",
+      "description": "جاكيت بلون بني دافئ، يصلح فوق القميص أو التيشيرت.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "بني",
+          "hex": "#6b4a32"
+        }
+      ],
+      "image": "images/ig/p09.jpg",
+      "fit": "none"
+    },
+    {
+      "id": "p04",
+      "name": "قميص أزرق بترولي",
+      "category": "shirts",
+      "price": 52000,
+      "badge": "مميز",
+      "description": "لون عميق بقصّة مريحة وتفصيل أنيق عند الصدر.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "بترولي",
+          "hex": "#14577d"
+        }
+      ],
+      "image": "images/cut/p08_upper.webp",
+      "imageSize": [
+        350,
+        449
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p08_upper.webp",
+          "layer": "upper",
+          "w": 350,
+          "h": 449,
+          "stageW": 290
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "name": "قميص سماوي كلاسيكي",
+      "category": "shirts",
+      "price": 48000,
+      "badge": "جديد",
+      "description": "قميص بجيوب أمامية بلون سماوي منعش يناسب الإطلالات اليومية.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "سماوي",
+          "hex": "#5fa6dc"
+        }
+      ],
+      "image": "images/cut/p10_upper.webp",
+      "imageSize": [
+        304,
+        367
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p10_upper.webp",
+          "layer": "upper",
+          "w": 304,
+          "h": 367,
+          "stageW": 272
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "name": "قميص أصفر باستيل",
+      "category": "shirts",
+      "price": 50000,
+      "description": "لون هادئ بخامة خفيفة، مناسب للأجواء الدافئة.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "أصفر فاتح",
+          "hex": "#efe59a"
+        }
+      ],
+      "image": "images/cut/p11_upper.webp",
+      "imageSize": [
+        355,
+        331
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p11_upper.webp",
+          "layer": "upper",
+          "w": 355,
+          "h": 331,
+          "stageW": 292
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "name": "قميص أخضر زيتي بجيوب",
+      "category": "shirts",
+      "price": 62000,
+      "description": "قميص عملي بجيوب أمامية ولون زيتي أنيق.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "أخضر زيتي",
+          "hex": "#5a6b4a"
+        }
+      ],
+      "image": "images/cut/p12_upper.webp",
+      "imageSize": [
+        287,
+        277
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p12_upper.webp",
+          "layer": "upper",
+          "w": 287,
+          "h": 277,
+          "stageW": 268
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "name": "قميص مخطّط وردي",
+      "category": "shirts",
+      "price": 55000,
+      "oldPrice": 62000,
+      "description": "خطوط رفيعة بياقة بيضاء، خيار مرتّب للدوام والمناسبات.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "وردي مخطّط",
+          "hex": "#d6a7a7"
+        }
+      ],
+      "image": "images/cut/p14_upper.webp",
+      "imageSize": [
+        352,
+        308
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p14_upper.webp",
+          "layer": "upper",
+          "w": 352,
+          "h": 308,
+          "stageW": 290
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "name": "قميص جينز سماوي نصف كمّ",
+      "category": "shirts",
+      "price": 58000,
+      "description": "جيبان أماميان بغطاء وخامة ناعمة بلون سماوي.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "سماوي فاتح",
+          "hex": "#9dc4e6"
+        }
+      ],
+      "image": "images/cut/p18_upper.webp",
+      "imageSize": [
+        263,
+        328
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p18_upper.webp",
+          "layer": "upper",
+          "w": 263,
+          "h": 328,
+          "stageW": 262
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "name": "تيشيرت كتّان مطرّز",
+      "category": "tshirts",
+      "price": 75000,
+      "badge": "جديد",
+      "description": "كتّان خفيف بتطريز تراثي عند الياقة، لإطلالة مميزة.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "بيج",
+          "hex": "#c9b48a"
+        }
+      ],
+      "image": "images/cut/p13_upper.webp",
+      "imageSize": [
+        324,
+        352
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p13_upper.webp",
+          "layer": "upper",
+          "w": 324,
+          "h": 352,
+          "stageW": 280
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "name": "بولو أبيض بسحّاب",
+      "category": "tshirts",
+      "price": 56000,
+      "badge": "مميز",
+      "description": "بولو بياقة وسحّاب وشعار مطرّز، أنيق ومريح للخروج اليومي.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "أبيض",
+          "hex": "#f1efe8"
+        }
+      ],
+      "image": "images/cut/p17_upper.webp",
+      "imageSize": [
+        275,
+        304
+      ],
+      "fit": "upper",
+      "parts": [
+        {
+          "photo": "images/cut/p17_upper.webp",
+          "layer": "upper",
+          "w": 275,
+          "h": 304,
+          "stageW": 270
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "name": "جينز واسع أزرق",
+      "category": "jeans",
+      "price": 78000,
+      "badge": "مميز",
+      "description": "جينز بقصّة واسعة مريحة وغسلة كلاسيكية.",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "colors": [
+        {
+          "name": "أزرق",
+          "hex": "#3c5f93"
+        }
+      ],
+      "image": "images/cut/jeans.webp",
+      "imageSize": [
+        172,
+        293
+      ],
+      "fit": "lower",
+      "parts": [
+        {
+          "photo": "images/cut/jeans.webp",
+          "layer": "lower",
+          "w": 172,
+          "h": 293,
+          "stageW": 192
+        }
+      ]
+    },
+    {
+      "id": "p13",
+      "name": "بنطال أبيض خفيف",
+      "category": "trousers",
+      "price": 65000,
+      "description": "بخيط ربط عند الخصر وخامة خفيفة تناسب الصيف.",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "colors": [
+        {
+          "name": "أبيض",
+          "hex": "#f1efe8"
+        }
+      ],
+      "image": "images/cut/p17_lower.webp",
+      "imageSize": [
+        202,
+        216
+      ],
+      "fit": "lower",
+      "parts": [
+        {
+          "photo": "images/cut/p17_lower.webp",
+          "layer": "lower",
+          "w": 202,
+          "h": 216,
+          "stageW": 200
+        }
+      ]
+    },
+    {
+      "id": "p14",
+      "name": "بنطال سماوي",
+      "category": "trousers",
+      "price": 68000,
+      "description": "بنطال خفيف بلون سماوي هادئ يتناسق مع القمصان.",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "colors": [
+        {
+          "name": "سماوي",
+          "hex": "#9dc4e6"
+        }
+      ],
+      "image": "images/cut/p18_lower.webp",
+      "imageSize": [
+        197,
+        211
+      ],
+      "fit": "lower",
+      "parts": [
+        {
+          "photo": "images/cut/p18_lower.webp",
+          "layer": "lower",
+          "w": 197,
+          "h": 211,
+          "stageW": 196
+        }
+      ]
+    },
+    {
+      "id": "p16",
+      "name": "بنطال كارغو بيج",
+      "category": "trousers",
+      "price": 72000,
+      "badge": "جديد",
+      "description": "جيوب جانبية عملية وقصّة مريحة للاستخدام اليومي.",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "colors": [
+        {
+          "name": "بيج",
+          "hex": "#b8a47e"
+        }
+      ],
+      "image": "images/ig/trousers-cargo.jpg",
+      "fit": "none"
+    },
+    {
+      "id": "p17",
+      "name": "بنطال كحلي رسمي",
+      "category": "trousers",
+      "price": 70000,
+      "description": "قصّة مستقيمة بلون كحلي يناسب القمصان والجاكيتات.",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "colors": [
+        {
+          "name": "كحلي",
+          "hex": "#16213d"
+        }
+      ],
+      "image": "images/ig/trousers-navy.jpg",
+      "fit": "none"
+    },
+    {
+      "id": "p18",
+      "name": "طقم كاجوال بني",
+      "category": "jeans",
+      "price": 120000,
+      "description": "إطلالة يومية متناسقة بلون بني دافئ.",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "colors": [
+        {
+          "name": "بني",
+          "hex": "#6b4a32"
+        }
+      ],
+      "image": "images/ig/p16.jpg",
+      "fit": "none"
+    }
+  ]
+}
